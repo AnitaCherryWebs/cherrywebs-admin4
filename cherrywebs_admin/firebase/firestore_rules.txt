@@ -1,0 +1,1 @@
+// firestore_rules.txt - demo content
